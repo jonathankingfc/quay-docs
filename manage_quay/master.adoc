@@ -54,6 +54,8 @@ include::modules/proc_manage-repomirror.adoc[leveloffset=+1]
 
 include::modules/proc_manage-ldap-setup.adoc[leveloffset=+1]
 
+include::modules/proc_manage-oidc-setup.adoc[leveloffset=+1]
+
 include::modules/proc_manage-quay-prometheus.adoc[leveloffset=+1]
 
 include::modules/proc_manage-quay-geo-replication.adoc[leveloffset=+1]
